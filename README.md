@@ -1,5 +1,5 @@
 # Simple-RESFTFULL-API-Native-PHP
-It will show you how to create simple request RESTFULL API using PHP
+It will show you how to create simple request REST API using PHP
 
 1. git clone https://github.com/dns2012/Simple-RESTFULL-API-Native-PHP.git
 2. Create database 'rest'.
